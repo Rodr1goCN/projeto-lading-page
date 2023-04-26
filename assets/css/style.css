@@ -393,6 +393,7 @@ footer a{
     align-items: center;
     border-radius: 50%;
     transform: rotate(-90deg);
+    z-index: 2;
 }
 
 .back-to-top:hover{
